@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/turabev50" target="blank"><img src="https://img.shields.io/twitter/follow/turabev50?logo=twitter&style=for-the-badge" alt="turabev50" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning ** Django **
 
 - 👨‍💻 All of my projects are available at [adam50.com](adam50.com)
 
