@@ -1,11 +1,8 @@
 
 ![logo](https://github.com/turabaev69/turabaev69/blob/main/cat.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turabaev69&theme=synthwave&show_icons=true)
-
 <h1 align="center">Hi 👋, I'm Turabaev</h1>
 <h3 align="center">A self-taught passionate Software Engineer.</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turabaev69&label=Profile%20views&color=0e75b6&style=flat" alt="turabaev69" /> </p>
 
@@ -32,7 +29,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turabaev69&theme=synthwave&show_icons=true)
 
-
+![Anurag's GitHub stats] <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turabaev69&theme=synthwave&show_icons=true&locale=en&layout=compact" alt="turabaev69" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turabaev69&show_icons=true&locale=en" alt="turabaev69" /></p>
 
