@@ -1,5 +1,5 @@
 
-![logo](https://github.com/turabaev69/turabaev69/blob/main/68377-coder-boy.gif) <h1 align="center">Hi 👋, I'm Turabaev</h1> <h3 align="center">A self-taught passionate Software Engineer.</h3>
+![logo](https://github.com/turabaev69/turabaev69/blob/main/68377-coder-boy.gif) <h1 align="center">Hi 👋, I'm "Turabaev Azizbek" (Adam) </h1> <h3 align="center">A self-taught passionate Software Engineer.</h3>
 
 
 
