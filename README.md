@@ -1,7 +1,7 @@
 
 <h1 align="center" >Hi 👋, I'm "Turabaev Azizbek" (Adam) </h1> <h3 align="center">A self-taught passionate Software Engineer.</h3>
 
-<img src="https://github.com/turabaev69/turabaev69/blob/main/68377-coder-boy.gif" alt="Computer man" style="width:250px;height:250x;  border-radius: 25px;">
+<img src="https://github.com/turabaev69/turabaev69/blob/main/68377-coder-boy.gif" alt="Computer man" style="width:250px;height:250x; border-radius: 50px 20px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turabaev69&label=Profile%20views&color=0e75b6&style=flat" alt="turabaev69" /> </p>
 
