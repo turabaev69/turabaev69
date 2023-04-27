@@ -13,9 +13,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [adam50.com](adam50.com)
+- 👨‍💻 All of my projects are available at [www.odam.me](www.odam.me)
 
-- 📝 I regularly write articles on [adam50.com](adam50.com)
+- 📝 I regularly write articles on [www.odam.me](www.odam.me)
 
 - 💬 Ask me about **Flask, React, Raspberry Pi ...etc.**
 
