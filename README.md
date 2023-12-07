@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://www.odam.me/](https://www.odam.me/)
 
-- 💬 Ask me about **Flask, React, Raspberry Pi ...etc.**
+- 💬 Ask me about **Flask, Django, React, Raspberry Pi ...etc.**
 
 - ⚡ Fun fact **I cannot live without cats**
 
